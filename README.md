@@ -3,6 +3,8 @@
 ## Aim: To Interface a Digital output (LED) to ARM development board and write a blink code 
 
 ## Components required: STM32 CUBE IDE, NUCLEO ARM DEVELOPMENT BOARD  
+
+
 ## Theory 
 The full form of an ARM is an advanced reduced instruction set computer (RISC) machine, and it is a 32-bit processor architecture expanded by ARM holdings. The applications of an ARM processor include several microcontrollers as well as processors. The architecture of an ARM processor was licensed by many corporations for designing ARM processor-based SoC products and CPUs. This allows the corporations to manufacture their products using ARM architecture. Likewise, all main semiconductor companies will make ARM-based SOCs such as Samsung, Atmel, TI etc.
 
@@ -61,6 +63,7 @@ The main features of LPC2148 include the following.
 
 
 ## STM 32 CUBE PROGRAM :
+
 /* USER CODE BEGIN Header */
 /**
   ******************************************************************************
@@ -275,6 +278,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif /* USE_FULL_ASSERT */
 
 ## Output  :
+
  ![261610774-4ae36163-8212-4071-98b1-a21ca17c2478](https://github.com/Swetha733N/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/122199934/e0da5310-05e5-4334-af1f-098347a8c5b4)
 
 ![261610925-ac6ac7eb-69b9-48c7-bdd7-50f9a4a6ee23](https://github.com/Swetha733N/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/122199934/617a650d-4080-4c0c-89f1-8acbd275d48c)
